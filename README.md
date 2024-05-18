@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm John Lloyd Padrigano</h1>
-<h3 align="center">I an currently enrolled in Computer Engineer I</h3>
+<h3 align="center">I an currently enrolled in Computer Engineering</h3>
 
 - 🌱 I’m currently learning **Data Science, Computer languages and etc.**
 
